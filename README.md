@@ -1,13 +1,11 @@
    👋 Hi, I’m @Dani123379
    
    👀  I’m interested in:
-   
       - software development
       - motorsport
       - gaming
-      
-   🌱 I’m currently learning:
-   
+
+   🌱 I’m currently learning:   
       - Microsoft C#
       - HTML 5 / Javascript     
       - System Engineer student
