@@ -1,10 +1,12 @@
    👋 Hi, I’m @Dani123379
    
    👀  I’m interested in:
+   
       - software development
       - motorsport
       
    🌱 I’m currently learning:
+   
       - Microsoft C#
       - HTML 5 / Javascript     
       - System Engineer student
