@@ -4,6 +4,7 @@
    
       - software development
       - motorsport
+      - gaming
       
    🌱 I’m currently learning:
    
