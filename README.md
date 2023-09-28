@@ -8,7 +8,7 @@
    🌱 I’m currently learning:   
       - Microsoft C#               
       - HTML 5 / Javascript     
-      - System Engineer student
+      - System Engineering
 
 <!---
 Dani123379/Dani123379 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
